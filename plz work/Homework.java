@@ -48,7 +48,7 @@ public static void main(String[] args){
   System.out.println("I woke up to the " + smell + " smell of turkey roasting in the living room downstairs. I " + pastTenseVerb);
   System.out.println("down the stairs to see if I could help make the dinner.");
   System.out.println("My mom said 'we need fresh " + food + " for the salad");
-  System.out.println("So I went and brought a tray full of " + juice);
+  System.out.println("so I went and brought a tray full of " + juice + ".");
   System.out.println("I couldn't believe my " + body + " when I got there!");
   System.out.println("There were " + item2 + " under the christmas tree!");
 }
